@@ -9,7 +9,7 @@
 
 .container {
     width: 1024px;
-    text-align: center;
+    /* text-align: center; */
     margin: auto;
 }
 
@@ -106,7 +106,7 @@
 .first-section-part {
     width: 50%;
     align-items: center;
-    text-align: center;
+    /* text-align: center; */
     margin-top: 130px;
 }
 
@@ -129,9 +129,7 @@
 }
 
 .first-section-part p {
-    color: 20px;
     color: black;
-    margin-left: -140px;
     margin-top: 20px;
     margin-bottom: 20px;
     font-size: 20px;
@@ -166,8 +164,6 @@
 
 .second-section-part {
     width: 50%;
-    align-items: none;
-    text-align: center;
     margin-top: 130px;
 }
 
@@ -221,8 +217,6 @@
 
 .fourth-section-part {
     width: 50%;
-    align-items: center;
-    text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
 }
